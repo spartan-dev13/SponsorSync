@@ -33,13 +33,8 @@ A web application that enables sponsors to create and manage campaigns, and allo
 ## ⚙️ Installation Steps
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/Yadav-Aayansh/NoctiWave.git
-```
+
 ### 2. Change the working directory
-```bash
-cd NoctiWave
-```
 
 ### 3. Create a Virtual Environment
 ```bash
